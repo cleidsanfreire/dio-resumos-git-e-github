@@ -43,6 +43,7 @@ alterações feitas nos arquivos de código-fonte de um projeto ao longo do temp
 |cat .git-credential| Ver as senhas(chaves) tokens armazenadas -> cat .git-credential|
 |npm install | Instale as dependências -> npm install | 
 | npm run start | Inicie o servidor -> npm run start| 
+| . | Para abrir o editor do proprio Github utilizar o . (ponto) do proprio teclado.| 
 
 
 ## Instalação
